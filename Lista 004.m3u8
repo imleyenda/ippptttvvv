@@ -1,0 +1,103 @@
+﻿#EXTM3U
+#EXTINF:-1, La 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1,La 2
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:-1,Antena 3
+https://livestartover.atresmedia.com/antena3/master.m3u8
+#EXTINF:-1,Antena 3 Opc.2
+https://livestartover.atresmedia.com/geoantena3/master.m3u8
+#EXTINF:-1,Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
+#EXTINF:-1,Cuatro HD
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-1,Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
+#EXTINF:-1,Telecinco HD
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+#EXTINF:-1,La Sexta
+https://livestartover.atresmedia.com/lasexta/master.m3u8
+#EXTINF:-1,La Sexta Opc.2
+https://livestartover.atresmedia.com/geolasexta/master.m3u8
+#EXTINF:-1,Ten
+http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
+#EXTINF:-1,DKISS HD"
+http://kissfm-cires21-video.secure.footprint.net/dkiss/master.m3u8
+#EXTINF:-1,COSMO
+http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
+#EXTINF:-1,ES: mtmad 24h HD
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+#EXTINF:-1,ES: Yu HD
+https://universal-f.akamaihd.net/i/yu2019_x@770834/master.m3u8
+#EXTINF:-1,Be Mad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:-1,TELECINCO
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1,ANDALUCIA COCINA TV
+https://593fa17dec176.streamlock.net:443/cscocina/cscocina.stream/playlist.m3u8
+#EXTINF:-1,ANDALUCIA TV FLAMENCO
+https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/chunklist_w726089066.m3u8
+#EXTINF:-1, TV GALICIA
+http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+#EXTINF:-1,TVG America
+http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+#EXTINF:-1,XABARIN TV
+http://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1, À Punt HD
+https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae.m3u8
+#EXTINF:-1,TV3 CATALUNYA
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b548000_DVR.m3u8
+#EXTINF:-1,GESTIONA TV
+http://37.187.7.106/gestionatv/live.m3u8
+#EXTINF:-1,Notícies 3/24
+https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:324_web/chunklist_b1296000.m3u8
+#EXTINF:-1, Rtv ce
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/chunklist_w1082072722.m3u8
+#EXTINF:-1,CCM
+http://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/0_xs45iy5i/protocol/http/format/applehttp/a.m3u8
+#EXTINF:-1,Imas TV
+https://secure3.todostreaming.es/live/imastv-livestream.m3u8
+#EXTINF:-1,25 TV
+http://cdnlive.shooowit.net/25televisiolive/25tv.smil/chunklist_b300000.m3u8
+#EXTINF:-1,Canal 4 Tenerife
+https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w490302057.m3u8
+#EXTINF:-1,Be Mad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:-1,TELECINCO
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1,ANDALUCIA COCINA TV
+https://593fa17dec176.streamlock.net:443/cscocina/cscocina.stream/playlist.m3u8
+#EXTINF:-1,ANDALUCIA TV FLAMENCO
+https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/chunklist_w726089066.m3u8
+#EXTINF:-1, TV GALICIA
+http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+#EXTINF:-1,TVG America
+http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+#EXTINF:-1,XABARIN TV
+http://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1, À Punt HD
+https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae.m3u8
+#EXTINF:-1,TV3 CATALUNYA
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b548000_DVR.m3u8
+#EXTINF:-1,GESTIONA TV
+http://37.187.7.106/gestionatv/live.m3u8
+#EXTINF:-1,Notícies 3/24
+https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:324_web/chunklist_b1296000.m3u8
+#EXTINF:-1, Rtv ce
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/chunklist_w1082072722.m3u8
+#EXTINF:-1,CCM
+http://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/0_xs45iy5i/protocol/http/format/applehttp/a.m3u8
+#EXTINF:-1,Imas TV
+https://secure3.todostreaming.es/live/imastv-livestream.m3u8
+#EXTINF:-1,25 TV
+http://cdnlive.shooowit.net/25televisiolive/25tv.smil/chunklist_b300000.m3u8
+#EXTINF:-1,Canal 4 Tenerife
+https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w490302057.m3u8
